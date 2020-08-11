@@ -39,7 +39,7 @@ baseurl: "/PROJECT_univ" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
+    twitter: GTippirisetty
     github: ganeshtmvs
     instagram : ganeshtmvs
 
