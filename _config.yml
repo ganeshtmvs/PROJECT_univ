@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: My First Blog
-description: Ganesh's Blog.
+title: My First Blog 
+description: Ganesh's Blog
 github_username: ganeshtmvs
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "PROJECT_univ"
